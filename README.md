@@ -1,6 +1,6 @@
 # Lookup Queue
 
-	Implementation of a dynamically sized queue using a doubly linked list and hash table.
+	Implementation of a dynamically sized queue using a doubly linked list and hash table. J-Unit tests are provided.
 
 # What I Learned:
 
